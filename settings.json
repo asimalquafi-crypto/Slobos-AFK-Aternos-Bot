@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VMCCraft.aternos.me",
-    "port": 53389,
+    "ip": "vemc.aternos.me",
+    "port": 35022,
     "version": "",
     "try-creative": false
   },
