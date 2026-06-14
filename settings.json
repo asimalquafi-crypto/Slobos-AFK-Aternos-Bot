@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vemc.aternos.me",
-    "port": 35022,
+    "ip": "vemc14.aternos.me",
+    "port": 29275,
     "version": "",
     "try-creative": false
   },
