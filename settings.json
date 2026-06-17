@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vemc14.aternos.me",
-    "port": 29275,
+    "ip": "vmc.mcsh.io",
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
